@@ -1,0 +1,9 @@
+[
+  {
+    "id": "produto1",
+    "nome": "VIP Mensal",
+    "preco": 10,
+    "descricao": "Cargo VIP no servidor por 30 dias.",
+    "imagem": "https://link-da-imagem-aqui.com/imagem.png"
+  }
+]
